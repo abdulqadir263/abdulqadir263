@@ -1,16 +1,213 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdulqadir263/abdulqadir263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Qadir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=16"/>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+mobile+apps+%F0%9F%93%B1;Designing+end-to-end+ML+pipelines+%F0%9F%A4%96;Integrating+AI+models+into+real+apps+%E2%9A%A1;Final+Year+CS+Student+%40+COMSATS+University)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/abdulqadir263/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/abdulqadirds">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:abdulqadir.offi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://abdulqadir.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=abdulqadir263&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class AbdulQadir:
+    def __init__(self):
+        self.name        = "Abdul Qadir"
+        self.university  = "COMSATS University Islamabad, Sahiwal Campus"
+        self.degree      = "BS Computer Science  (2022 – 2026)"
+        self.cgpa        = 3.5
+        self.location    = "Sahiwal, Punjab, Pakistan"
+        self.status      = "🟢 Open to Internships"
+
+    @property
+    def skills(self):
+        return {
+            "mobile"  : ["Flutter", "Dart", "Firebase", "GetX", "MVVM"],
+            "ml_ai"   : ["Python", "TensorFlow", "Scikit-learn", "TFLite", "Gemini API"],
+            "data"    : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "EDA"],
+        }
+
+    @property
+    def currently(self):
+        return {
+            "building"  : "Aasaan Kisaan — Flutter + TFLite + Gemini AI (FYP)",
+            "learning"  : "MLOps, FastAPI, Advanced Deep Learning",
+            "seeking"   : "Flutter / ML / AI Internship",
+        }
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great together.")
+
+me = AbdulQadir()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+#### 📱 Flutter & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+#### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌾 Aasaan Kisaan — FYP</h3>
+      <p><strong>Flutter + Firebase + TFLite + Gemini AI</strong></p>
+      <p>Agricultural platform with on-device ML for crop disease detection, Gemini AI smart features, role-based Firebase auth, offline support, and community marketplace. Cross-platform: Android, iOS & Web.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
+      </p>
+      <a href="https://github.com/abdulqadir263/Aasaan-Kisaan">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🛍️ ClothHub</h3>
+      <p><strong>Flutter E-commerce — MVVM + Firebase</strong></p>
+      <p>Full-featured clothing store with separate Admin & User interfaces. MVVM architecture, GetX state management, Cloud Firestore real-time sync, Cloudinary image upload, and order tracking system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/GetX-8B0000?style=flat&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVVM-6DB33F?style=flat"/>
+      </p>
+      <a href="https://github.com/abdulqadir263/ClothHub">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📉 Customer Churn Prediction</h3>
+      <p><strong>Python · Scikit-learn · Pandas</strong></p>
+      <p>End-to-end binary classification pipeline on IBM Telco dataset (7,000+ rows). Full EDA, correlation heatmaps, Logistic Regression & KNN comparison, stratified splits, F1-score & ROC-AUC evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Accuracy-80%25+-green?style=flat"/>
+      </p>
+      <a href="https://github.com/abdulqadir263/Customer-Churn-Prediction">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌿 Crop Disease Detection</h3>
+      <p><strong>CNN · TensorFlow · Transfer Learning</strong></p>
+      <p>MobileNetV2-based CNN for plant disease classification from leaf images. OpenCV preprocessing, augmentation, early stopping. 90%+ accuracy. Model exported as TFLite for mobile deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Accuracy-90%25+-green?style=flat"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| 🏆 Google Advanced Data Analytics Professional | Google via Coursera | Jan 2026 |
+| 🤖 Google AI Fundamentals | Google via Coursera | Mar 2026 |
+| 📊 Google Data Analysis with Python Specialization | Google via Coursera | Jan 2026 |
+| 💬 Google Prompting Essentials Specialization | Google via Coursera | Aug 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulqadir263&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadir263&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadir263&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulqadir263&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulqadir263&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+*"I'm open to internships in Flutter, ML, AI — or where all three meet."*
+
+<a href="https://www.linkedin.com/in/abdulqadir263/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:abdulqadir.offi@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://abdulqadir.dev">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
